@@ -1,0 +1,14 @@
+E:\SCHOOL\ENGENHARIA DE SOFTWARE - Unigran\SEMESTRES\semestre 6\2 Gerência de Configuração\Exercícios 03092023 - 22092023\ConsoleApp_IMC\ConsoleApp_IMC\bin\Debug\net6.0\ConsoleApp_IMC.exe
+E:\SCHOOL\ENGENHARIA DE SOFTWARE - Unigran\SEMESTRES\semestre 6\2 Gerência de Configuração\Exercícios 03092023 - 22092023\ConsoleApp_IMC\ConsoleApp_IMC\bin\Debug\net6.0\ConsoleApp_IMC.deps.json
+E:\SCHOOL\ENGENHARIA DE SOFTWARE - Unigran\SEMESTRES\semestre 6\2 Gerência de Configuração\Exercícios 03092023 - 22092023\ConsoleApp_IMC\ConsoleApp_IMC\bin\Debug\net6.0\ConsoleApp_IMC.runtimeconfig.json
+E:\SCHOOL\ENGENHARIA DE SOFTWARE - Unigran\SEMESTRES\semestre 6\2 Gerência de Configuração\Exercícios 03092023 - 22092023\ConsoleApp_IMC\ConsoleApp_IMC\bin\Debug\net6.0\ConsoleApp_IMC.dll
+E:\SCHOOL\ENGENHARIA DE SOFTWARE - Unigran\SEMESTRES\semestre 6\2 Gerência de Configuração\Exercícios 03092023 - 22092023\ConsoleApp_IMC\ConsoleApp_IMC\bin\Debug\net6.0\ConsoleApp_IMC.pdb
+E:\SCHOOL\ENGENHARIA DE SOFTWARE - Unigran\SEMESTRES\semestre 6\2 Gerência de Configuração\Exercícios 03092023 - 22092023\ConsoleApp_IMC\ConsoleApp_IMC\obj\Debug\net6.0\ConsoleApp_IMC.GeneratedMSBuildEditorConfig.editorconfig
+E:\SCHOOL\ENGENHARIA DE SOFTWARE - Unigran\SEMESTRES\semestre 6\2 Gerência de Configuração\Exercícios 03092023 - 22092023\ConsoleApp_IMC\ConsoleApp_IMC\obj\Debug\net6.0\ConsoleApp_IMC.AssemblyInfoInputs.cache
+E:\SCHOOL\ENGENHARIA DE SOFTWARE - Unigran\SEMESTRES\semestre 6\2 Gerência de Configuração\Exercícios 03092023 - 22092023\ConsoleApp_IMC\ConsoleApp_IMC\obj\Debug\net6.0\ConsoleApp_IMC.AssemblyInfo.cs
+E:\SCHOOL\ENGENHARIA DE SOFTWARE - Unigran\SEMESTRES\semestre 6\2 Gerência de Configuração\Exercícios 03092023 - 22092023\ConsoleApp_IMC\ConsoleApp_IMC\obj\Debug\net6.0\ConsoleApp_IMC.csproj.CoreCompileInputs.cache
+E:\SCHOOL\ENGENHARIA DE SOFTWARE - Unigran\SEMESTRES\semestre 6\2 Gerência de Configuração\Exercícios 03092023 - 22092023\ConsoleApp_IMC\ConsoleApp_IMC\obj\Debug\net6.0\ConsoleApp_IMC.dll
+E:\SCHOOL\ENGENHARIA DE SOFTWARE - Unigran\SEMESTRES\semestre 6\2 Gerência de Configuração\Exercícios 03092023 - 22092023\ConsoleApp_IMC\ConsoleApp_IMC\obj\Debug\net6.0\refint\ConsoleApp_IMC.dll
+E:\SCHOOL\ENGENHARIA DE SOFTWARE - Unigran\SEMESTRES\semestre 6\2 Gerência de Configuração\Exercícios 03092023 - 22092023\ConsoleApp_IMC\ConsoleApp_IMC\obj\Debug\net6.0\ConsoleApp_IMC.pdb
+E:\SCHOOL\ENGENHARIA DE SOFTWARE - Unigran\SEMESTRES\semestre 6\2 Gerência de Configuração\Exercícios 03092023 - 22092023\ConsoleApp_IMC\ConsoleApp_IMC\obj\Debug\net6.0\ConsoleApp_IMC.genruntimeconfig.cache
+E:\SCHOOL\ENGENHARIA DE SOFTWARE - Unigran\SEMESTRES\semestre 6\2 Gerência de Configuração\Exercícios 03092023 - 22092023\ConsoleApp_IMC\ConsoleApp_IMC\obj\Debug\net6.0\ref\ConsoleApp_IMC.dll
